@@ -3,4 +3,5 @@ int main() {
 	for (int i = 0; i < 5; i++)
 		printf("*");
 	return 0;
-}hjhjhhh
+	で硲ったぞ馬たと
+}
